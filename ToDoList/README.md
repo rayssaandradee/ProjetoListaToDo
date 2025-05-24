@@ -1,18 +1,14 @@
-## Getting Started
+# To-do List App em Java 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um miniaplicativo de **lista de tarefas (To-do List)** desenvolvido em **Java**, utilizando a biblioteca **Swing** para criar a interface gráfica.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- ✅ Adicionar novas tarefas
+- ✅ Remover tarefas selecionadas
+- ✅ Marcar tarefas como concluídas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Pré-requisitos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java JDK instalado (versão 8 ou superior)
+- Terminal ou IDE Java (Eclipse, IntelliJ, NetBeans etc.)
